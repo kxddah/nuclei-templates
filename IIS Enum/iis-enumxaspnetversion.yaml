@@ -4,7 +4,8 @@ info:
   name: Microsoft IIS version detect
   author: kxddah
   severity: info
-  description: There's a good chance that an application containing X-AspNet-Version header might be running on an IIS >  tags: tech,microsoft,iis
+  description: There's a good chance that an application containing X-AspNet-Version header might be running on an IIS
+  tags: tech,microsoft,iis
   metadata:
     max-request: 1
 
